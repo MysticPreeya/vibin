@@ -281,7 +281,7 @@ button.white {
   color: #fff;
 }
 #sm-banner {
-    display: flex;
+    display: auto;
     justify-content: space-between;
     flex-wrap: wrap;   
 }
